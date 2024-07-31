@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Desenvolvedor"
+    },
+    {
+      "id": 2,
+      "name": "Desenhista"
+    },
+    {
+      "id": 3,
+      "name": "Designer"
+    },
+    {
+      "id": 4,
+      "name": "Arquiteto"
+    },
+    {
+      "id": 5,
+      "name": "Engenheiro"
+    },
+    {
+      "id": 6,
+      "name": "Marketing"
+    },
+    {
+      "id": 7,
+      "name": "Analista de Sistemas"
+    },
+    {
+      "id": 8,
+      "name": "Gerente de Projetos"
+    },
+    {
+      "id": 9,
+      "name": "Consultor"
+    },
+    {
+      "id": 10,
+      "name": "Redator"
+    },
+    {
+      "id": 11,
+      "name": "Fotógrafo"
+    }
+  ]
+}
